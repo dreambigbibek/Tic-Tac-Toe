@@ -1,0 +1,28 @@
+.grid-container {
+    /* display: inline-grid; */
+    position: absolute;
+    align-self: center;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    /* border: 1px solid #0b0b0b; */
+  }
+  
+.main-container{
+   
+    margin: 100px;
+  }
+
+.clickDiv{
+    padding: 2px;
+    border: 1px solid #f9f7f7;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(97, 234, 234);
+    /* background-color: aqua; */
+}
+
+header{
+    text-align: center;
+    font-size: 20px;
+}
