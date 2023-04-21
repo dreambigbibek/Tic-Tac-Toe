@@ -11,6 +11,7 @@
 .main-container{
    
     margin: 100px;
+    /* text-align: center; */
   }
 
 .clickDiv{
@@ -23,6 +24,12 @@
 }
 
 header{
-    text-align: center;
+    /* text-align: center; */
     font-size: 20px;
+}
+#displayWinner{
+    background-color: rgb(241, 241, 228);
+    position: relative;
+    margin: 500px;
+    font-size: 100px;
 }
